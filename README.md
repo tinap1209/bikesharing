@@ -18,6 +18,7 @@ Over 1,00,000 users bike for 10 mins. But what looks like the average duration, 
 
 ### 2. Checkout Times by Gender
 The below graph clearly shows that there are more male bikers than female bikes. There is a difference of nearly 50% more male bikers then female bikes. 
+
 <img width="681" alt="gender" src="https://user-images.githubusercontent.com/76264061/113516622-e4230500-9598-11eb-88ae-977985eb4e81.png">
 
 ### 3. Trips by Weekday for Each Hour
@@ -31,6 +32,14 @@ The most number of bikers in the weekday are males in between 6 am to 9 am and e
 ### 5. Trips by Gender by Weekday
 Female subcribers make lesser trips than male subsribers. 
 <img width="800" alt="subcribers" src="https://user-images.githubusercontent.com/76264061/113517038-4977f580-959b-11eb-91ce-ee9ff77644d2.png">
+
+# Two additional visualizations of NYC Citibike analysis for future references. 
+
+## 1. Symbol Map for future reference. 
+<img width="681" alt="Module 1" src="https://user-images.githubusercontent.com/76264061/113517605-9dd0a480-959e-11eb-9a4c-c7a159200abe.png">
+
+## 2. Average Trip Duration by Age.
+<img width="679" alt="Module 2" src="https://user-images.githubusercontent.com/76264061/113517741-85ad5500-959f-11eb-80cd-84c293653979.png">
 
 ## Deliverables 
 The jupyter notebook is upleaded onGithub for reference.
