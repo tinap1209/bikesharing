@@ -9,7 +9,7 @@ Deliverable 2: Create Visualizations for the Trip Analysis
 Deliverable 3: Create a Story and Report for the Final Presentation
 
 ## My Visualizations
-https://public.tableau.com/profile/ms.tina.singh#!/vizhome/NYC_CitiBank_Challenge_presentationforApril2021/Story1?publish=yes
+https://public.tableau.com/profile/ms.tina.singh#!/vizhome/NYC_CitiBank_Challenge_presentationforApril2021/PresentationforBusinessProposal
 
 ## Analysis
 ### 1. Checkout Times for Users:
