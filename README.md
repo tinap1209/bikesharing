@@ -4,9 +4,9 @@
 CSV files from [citybank Data](https://www.citibikenyc.com/system-data) and (https://s3.amazonaws.com/tripdata/index.html) for the month of August.
 
 ## Challange Deliverables 
-Deliverable 1: Change Trip Duration to a Datetime Format
-Deliverable 2: Create Visualizations for the Trip Analysis
-Deliverable 3: Create a Story and Report for the Final Presentation
+-Deliverable 1: Change Trip Duration to a Datetime Format
+-Deliverable 2: Create Visualizations for the Trip Analysis
+-Deliverable 3: Create a Story and Report for the Final Presentation
 
 ## My Visualizations
 https://public.tableau.com/profile/ms.tina.singh#!/vizhome/NYC_CitiBank_Challenge_presentationforApril2021/PresentationforBusinessProposal
@@ -42,7 +42,7 @@ Female subcribers make lesser trips than male subsribers.
 <img width="679" alt="Module 2" src="https://user-images.githubusercontent.com/76264061/113517741-85ad5500-959f-11eb-80cd-84c293653979.png">
 
 ## Deliverables 
-The jupyter notebook is upleaded onGithub for reference.
+The jupyter notebook is uploaded on Github for reference.
 
 ## Summary 
 In this dashboard there are additional filters for the user to explore, gender and usertype. Understanding the trips by usertype and gender, clearly shows that subscribers make up a large number of the trips, however customers tend to make longer trips. This makes sense because subscribers are every day commuters who probably commute to work only during the weekdays, whereas customers are most likely travelers who like to explore the city. However, it must be noted that within subscribers the gap between the number of trips made by each gender is large. Female subscribers make less trips than male subscribers. Therefore something must be done to attract more female riders. Looking over to the time breakdown, there is no difference between the usertype or genders. The preferred time is between 4pm and 7pm. It may be possible to move the less popular stations to higher female population areas as well.
