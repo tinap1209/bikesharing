@@ -1,5 +1,17 @@
 # NYC CitiBike Challenge using Web Viz tools.
 
+## Background
+
+Citi Bike, NYC's official bike share program, was designed to give residents and visitors a fun, affordable and convenient alternative to walking, taxis, buses and subways.
+
+There are 800 Citi Bike stations and 13,000 bikes across Manhattan, Brooklyn, Queens and Jersey City.
+
+You can join as an Annual Member (Subscriber) or buy a Day Pass or 3-Day Pass (Customer), and you can take as many rides as you want while your membership or pass is active.
+
+## Project 
+
+To implement a dashboard or reporting process for answering City officials questions on the program taking in consideration the bike data collected, organized, and made public on the Citi Bike System Data, using Tableau in some way.
+
 ## Data Source
 CSV files from [citybank Data](https://www.citibikenyc.com/system-data) and (https://s3.amazonaws.com/tripdata/index.html) for the month of August.
 
