@@ -10,7 +10,7 @@ You can join as an Annual Member (Subscriber) or buy a Day Pass or 3-Day Pass (C
 
 ## Project 
 
-To implement a dashboard or reporting process for answering City officials questions on the program taking in consideration the bike data collected, organized, and made public on the Citi Bike System Data, using Tableau in some way.
+To implement a dashboard or reporting process for answering City officials questions on the program taking in consideration the bike data collected, organized, and made public on the Citi Bike System Data, using Tableau.
 
 ## Data Source
 CSV files from [citybank Data](https://www.citibikenyc.com/system-data) and (https://s3.amazonaws.com/tripdata/index.html) for the month of August.
