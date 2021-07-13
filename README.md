@@ -1,4 +1,4 @@
-# NYC CitiBike Challenge using Web Viz tools.
+# NYC CitiBike Challenge
 
 ## Background
 
